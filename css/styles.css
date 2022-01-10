@@ -1,0 +1,39 @@
+.h1-praimary{
+    text-shadow: 7px 7px 7px rgba(0,0,0,0.5);
+}
+
+.ul-nav li
+{
+    transition: 0.7s
+}
+
+.ul-nav li:hover
+{
+    font-size: 18px;
+    text-shadow: 4px 4px 20px #000;
+}
+
+.home .btn1 , .home .btn2 
+{
+    box-shadow: 0px 10px 10px rgba(0,0,0,0.5);
+}
+.footer .foot h5 ~i , .footer .foot h5 i , .footer .foot h5 
+{
+    transition: 0.5s
+}
+
+
+.footer .foot h5:hover~i
+{
+    margin-right: 6px;
+} 
+.footer .foot h5:hover
+{
+    color:#ffc107
+}
+
+
+.address p:hover
+{
+    margin-left:10px;
+}
